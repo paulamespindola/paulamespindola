@@ -13,7 +13,7 @@ Estudante de Engenharia de Software e apaixonada por tecnologia, busco aprender 
 
 ## 📫 Contato  
 
-- [LinkedIn]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/paulamespindolaa/))  
+- [LinkedIn](https://linkedin.com/in/paulamespindolaa)
 - ✉️ paulamespindola04@gmail.com  
 
 ---
